@@ -75,7 +75,6 @@ public class PalindromeDemo extends JPanel implements ActionListener {
 	}
 
 	public void actionPerformed(ActionEvent evt) {
-		// todo: utilize actionPerformed call from extending inheriting classes
 		String text = textField.getText();
 
 		// append result to textarea

@@ -5,7 +5,7 @@ import java.util.HashMap;
 public class FrameUtilities {
 
 	/**
-	 * Check if string `s` is a valid anagram of string `t`.
+	 * Check if two strings are anagrams
 	 * O(n) time and O(1) space
 	 * @param s 
 	 * @param t
